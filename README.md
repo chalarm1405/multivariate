@@ -6,8 +6,8 @@
 
 [_] square brackets
 
-() parenthese
+( ) parentheses
 
-![Untitled-1](Untitled-1.png)
+![Untitled-1](Untitled-1.jpg)
 
 อธิบายการใช้งาน Github และ google colab ว่าหน้าที่ของแต่ละอันคืออะไร และอธิบายวิธีเซฟไฟล์ google Colab ลงใน Github
